@@ -1,113 +1,66 @@
-# Netflix Data Analysis Project
+# 👋 Hi, I'm Atharv  
+### Data Analyst | SQL | Python | Power BI | Excel  
 
-## 📌 Project Overview
-
-This project focuses on analyzing Netflix content data to understand trends related to movies and TV shows available on the platform. The goal is to extract meaningful insights that can help understand content distribution, viewer preferences, and platform strategy.
-
----
-
-## 🎯 Problem Statement
-
-Netflix hosts a large variety of content across different countries, genres, and time periods. Raw data alone does not clearly show:
-
-* What type of content dominates the platform
-* How content has evolved over the years
-* Which genres and countries contribute the most
-
-This project aims to convert raw Netflix data into **actionable insights** using data analysis and visualization.
+I work on data analysis, reporting, and visualization with a focus on building reliable and scalable analytical solutions. My primary interest is in transforming raw datasets into structured insights that support data-driven decision-making.
 
 ---
 
-## 📂 Dataset
-
-* Dataset: Netflix Movies and TV Shows dataset
-* Source: Publicly available dataset (Kaggle)
-* Format: CSV
-
-The dataset includes information such as:
-
-* Title
-* Type (Movie / TV Show)
-* Genre
-* Country
-* Release year
-* Date added
-* Duration
+## 🧾 Profile Overview  
+- Strong foundation in SQL, Python, Excel, and Power BI  
+- Experience in data cleaning, transformation, and analysis  
+- Focused on writing efficient queries and building meaningful dashboards  
+- Actively building projects aligned with real-world business use cases  
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠️ Technical Skills  
 
-* Excel (data cleaning & basic analysis)
-* Python (Pandas, NumPy for analysis)
-* SQL (data querying and filtering)
-* Power BI (dashboard and visualization)
+**Data Analysis & Visualization**  
+- Power BI (DAX, Data Modeling, Interactive Dashboards)  
+- Excel (Pivot Tables, Power Query, Advanced Formulas, Dashboards)  
 
----
+**Programming & Databases**  
+- SQL (Joins, Subqueries, Window Functions, Aggregations, Query Optimization)  
+- Python (Pandas, NumPy, Data Cleaning, Automation Scripts)  
 
-## 🔄 Data Cleaning & Preparation
-
-The following steps were performed:
-
-* Removed duplicate records
-* Handled missing values
-* Converted date columns into proper format
-* Standardized text fields (country, genre)
-* Created new columns for better analysis
+**Tools & Platforms**  
+- MySQL / PostgreSQL  
+- Jupyter Notebook  
+- Git & GitHub  
 
 ---
 
-## 📊 Analysis Performed
-
-Some key analyses include:
-
-* Movies vs TV Shows distribution
-* Content added over the years
-* Top genres on Netflix
-* Country-wise content distribution
-* Release year vs added year comparison
+## 📊 Areas of Work  
+- Data extraction and analysis using optimized SQL queries  
+- Data preprocessing and transformation using Python  
+- Dashboard development for KPI tracking and performance analysis  
+- Automation of repetitive reporting tasks  
+- Data validation and quality checks  
 
 ---
 
-## 📈 Key Insights
-
-* Netflix has more movies than TV shows
-* Content addition increased significantly after 2016
-* Drama and International content dominate the platform
-* The United States contributes the highest number of titles
+## 🎯 Current Focus  
+- Advanced SQL interview-level problem solving  
+- Python for analytical workflows and automation  
+- Power BI projects with real business scenarios  
 
 ---
 
-## 📊 Dashboard
+## 📂 Projects  
+*(Add repository links below)*  
 
-An interactive dashboard was created using Power BI to visualize:
+- **Netflix Analysis Dashboard – Power BI**  
+  Designed an interactive dashboard to analyze revenue trends, profitability, and key business KPIs.
 
-* Content type distribution
-* Genre trends
-* Country-wise analysis
-* Year-wise growth
 
-(Dashboard screenshots are included in the repository)
 
 ---
 
-## 📌 Conclusion
-
-This project demonstrates how raw data can be transformed into meaningful insights using analytics tools. It highlights trends in Netflix content strategy and shows the importance of data-driven decision-making.
-
----
-
-## 🚀 Future Improvements
-
-* Add viewer rating analysis
-* Perform recommendation-based analysis
-* Automate data updates
-* Apply basic predictive analytics
+## 📫 Contact  
+- LinkedIn: *https://www.linkedin.com/in/atharv-ganbavale13/*  
+ 
 
 ---
 
-## 👤 Author
+> *Focused on building precise, efficient, and business-oriented analytical solutions.*
 
-Atharv Ganbavale
-
-If you found this project interesting, feel free to ⭐ the repository!
